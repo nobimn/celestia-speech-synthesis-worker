@@ -1,0 +1,1 @@
+# celestia-speech-synthesis-worker
